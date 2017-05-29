@@ -1,6 +1,9 @@
 # Coursera: R Programming week 2
 My swirl answers for the week 2 of R programming course on cousera.
 
+# Course
+[Coursera R Programming](https://www.coursera.org/learn/r-programming)
+
 # Inside
   - Learn to use function
   - Return value of a function
